@@ -5,7 +5,7 @@
     <UserSecretsId>6b3317cb-3387-43f3-a434-026836e3a575</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.5" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.15" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
     <PackageReference Include="MongoDB.Bson" Version="2.8.0" />
     <PackageReference Include="MongoDB.Driver" Version="2.8.0" />
